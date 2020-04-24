@@ -29,7 +29,7 @@ Important Note: If you have already modified the overview.tpl file, upload the `
 
 To get assistance or to suggest new features; here's how you can reach us:
 
-[Create new issue on Github](https://github.com/ismaelyws/themely-whmcs-hook/issues) (click the green **New Issue** button)
+[Create new issue on Github](https://github.com/ismaelyws/Themely-WHMCS-Quick-Shortcut/issues) (click the green **New Issue** button)
 
 [Chat with us on Discord](https://discord.gg/f3m2Pmp)
 
