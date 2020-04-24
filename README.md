@@ -27,7 +27,7 @@ Important Note: If you have already modified the overview.tpl file, upload the `
 
 ## Get Help/Support
 
-To get assistance with the Themely WHMCS hook or to suggest new features; here's how you can reach us:
+To get assistance or to suggest new features; here's how you can reach us:
 
 [Create new issue on Github](https://github.com/ismaelyws/themely-whmcs-hook/issues) (click the green **New Issue** button)
 
