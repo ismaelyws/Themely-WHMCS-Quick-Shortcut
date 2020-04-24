@@ -14,7 +14,7 @@ Follow the instructions below.
 
 Upload the `/img` and `/templates` folders (and its contents) to following directory `/WHMCS_ROOT/modules/servers/cpanel/`
 
-Important Note: If you have already modified the overview.tpl file, follow Step #1 and modify the overview.tpl file by adding the following code after line 215.
+Important Note: If you have already modified the overview.tpl file, upload the `/img` folder then modify the overview.tpl file by adding the following code after line 215 (after the AWStats code).
 
 	<!-- THEMELY QUICK SHORTCUT START -->
 	<div class="col-sm-3 col-xs-6" id="cPanelThemely">
