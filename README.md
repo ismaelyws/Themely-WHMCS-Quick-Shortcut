@@ -16,14 +16,14 @@ Upload the `/img` and `/templates` folders (and files) to following directory `/
 
 Important Note: If you have already modified the overview.tpl file, follow Step #1 and modify the overview.tpl file by adding the following code after line 215.
 
-`<!-- THEMELY QUICK SHORTCUT START -->
+<!-- THEMELY QUICK SHORTCUT START -->
 <div class="col-sm-3 col-xs-6" id="cPanelThemely">
     <a href="clientarea.php?action=productdetails&amp;id={$serviceid}&amp;dosinglesignon=1&amp;app=themely" target="_blank">
         <img src="modules/servers/cpanel/img/wordpress.png" />
         One-Click WordPress Installer
     </a>
 </div>
-<!-- THEMELY QUICK SHORTCUT END -->`
+<!-- THEMELY QUICK SHORTCUT END -->
 
 ## Get Help/Support
 
