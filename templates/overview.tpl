@@ -222,6 +222,16 @@
                 </div>
                 <!-- THEMELY QUICK SHORTCUT END -->
             </div>
+            <div class="row cpanel-feature-row">
+                <!-- WORDPRESS MANAGER SHORTCUT START -->
+                <div class="col-sm-3 col-xs-6" id="cPanelWordPressManager">
+                    <a href="clientarea.php?action=productdetails&amp;id={$serviceid}&amp;dosinglesignon=1&amp;app=Site_Software_WordPressX" target="_blank">
+                        <img src="modules/servers/cpanel/img/wordpress.png" />
+                        WordPress Manager
+                    </a>
+                </div>
+                <!-- WORDPRESS MANAGER SHORTCUT END -->
+            </div>
         </div>
     </div>
 
