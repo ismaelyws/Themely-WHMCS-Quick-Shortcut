@@ -18,7 +18,7 @@ Important Note: If you have already modified the overview.tpl file, upload the `
 
 	<!-- THEMELY QUICK SHORTCUT START -->
 	<div class="col-sm-3 col-xs-6" id="cPanelThemely">
-	    <a href="clientarea.php?action=productdetails&amp;id={$serviceid}&amp;dosinglesignon=1&amp;app=themely" target="_blank">
+	    <a href="clientarea.php?action=productdetails&amp;id={$serviceid}&amp;dosinglesignon=1&amp;app=Themely_Home" target="_blank">
 	        <img src="modules/servers/cpanel/img/wordpress.png" />
 	        One-Click WordPress Installer
 	    </a>
